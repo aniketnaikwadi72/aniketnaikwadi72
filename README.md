@@ -103,30 +103,3 @@
 * Docker
 * AWS Basics
 
----
-
-# ⚡ Fun Fact
-
-I enjoy building real-world full stack applications and continuously improving my backend development skills.
-
----
-
-# 🛠️ How To Use This README
-
-1. Create a repository named:
-
-```text
-aniketnaikwadi72
-```
-
-2. Add this README.md file.
-
-3. Replace:
-
-* LinkedIn URL
-* Email
-* Portfolio URL
-
-4. Commit and push changes.
-
-Your GitHub profile README will automatically appear on your profile.
