@@ -16,6 +16,11 @@
 
 # 💻 Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,bootstrap,react,git,github,vscode"/>
+
+</p>
 ## Backend
 
 * Java
